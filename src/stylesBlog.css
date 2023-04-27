@@ -1,0 +1,45 @@
+#root {
+  background: url(../Image.jpg) no-repeat, 10px;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+header {
+  width: 98%;
+
+  align-items: right;
+  background: white;
+  padding: 15px;
+}
+header button {
+  left: 10px;
+  color: rgba(143, 89, 28, 0.993);
+  margin-left: 10px;
+  background: black;
+  cursor: pointer;
+  border-radius: 2px 2px 2px;
+}
+header a {
+  color: black;
+  font-weight: 50px;
+}
+#content-head {
+  background-image: url(/sandbox/src/Image.jpg);
+  padding: 50px;
+  font-size: 15px;
+  font-family: Varela;
+  font-stretch: 5px;
+  color: white;
+}
+#article {
+  margin-top: 200px;
+}
+#article h2 {
+  align-items: left;
+  display: absolute;
+}
+#article p {
+  display: absolute;
+  align-content: absolute;
+}
